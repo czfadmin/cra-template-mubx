@@ -1,6 +1,6 @@
 {
     "name": "cra-template-mubx",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "description": "The base typescript template for Create React App with Mobx,Material UI",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
