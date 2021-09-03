@@ -1,21 +1,24 @@
 {
-  "name": "cra-template-mubx",
-  "version": "1.0.0",
-  "description": "The base typescript template for Create React App with Mobx,Material UI",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-      "Materila UI",
-      "React",
-      "Mobx",
-      "Typescript",
-      "create-react-app"
-  ],
-  "files": [
-    "template",
-    "template.json"
-  ],
-  "author": "abchen",
-  "license": "ISC"
+    "name": "cra-template-mubx",
+    "version": "1.0.0",
+    "description": "The base typescript template for Create React App with Mobx,Material UI",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "Materila UI",
+        "React",
+        "Mobx",
+        "Typescript",
+        "create-react-app"
+    ],
+    "files": [
+        "template",
+        "template.json"
+    ],
+    "homepage": "https://github.com/czfadmin/cra-template-mubx.git",
+    "repository": "https://github.com/czfadmin/cra-template-mubx.git",
+    "bugs": "https://github.com/czfadmin/cra-template-mubx/issues",
+    "author": "abchen",
+    "license": "ISC"
 }
