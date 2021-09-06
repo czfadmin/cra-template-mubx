@@ -23,7 +23,6 @@ export class TodoStore {
         this.todos.push(new Todo(this, title, false));
     }
 
-
     toggleAll(checked: boolean) {
         this.todos.forEach((todo) => (todo.finished = checked));
     }
@@ -31,6 +30,7 @@ export class TodoStore {
     toJS() {
         return this.todos.map((todo) => todo.toJs());
     }
+
     clearFinished() {
         this.todos = this.todos.filter((todo) => !todo.finished);
     }
